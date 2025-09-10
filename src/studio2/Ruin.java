@@ -39,6 +39,7 @@ public class Ruin {
             }
             double ruinRate = ruins/totalSimulations;
             System.out.println("Ruin chance:" + ruinRate);
+            // Is this working?
         }
     }
 }
